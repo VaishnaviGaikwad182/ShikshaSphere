@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "module-physics",
+      "description": "An illustration for a physics module.",
+      "imageUrl": "https://picsum.photos/seed/physics/600/400",
+      "imageHint": "konark wheel"
+    },
+    {
+      "id": "module-chemistry",
+      "description": "An illustration for a chemistry module.",
+      "imageUrl": "https://picsum.photos/seed/chemistry/600/400",
+      "imageHint": "salt pans"
+    },
+    {
+      "id": "module-biology",
+      "description": "An illustration for a biology module.",
+      "imageUrl": "https://picsum.photos/seed/biology/600/400",
+      "imageHint": "chilika lake"
+    },
+    {
+      "id": "module-math",
+      "description": "An illustration for a mathematics module.",
+      "imageUrl": "https://picsum.photos/seed/math/600/400",
+      "imageHint": "temple geometry"
+    },
+    {
+      "id": "badge-pioneer",
+      "description": "Badge for completing the first module.",
+      "imageUrl": "https://picsum.photos/seed/pioneer/200/200",
+      "imageHint": "lotus blossom"
+    },
+    {
+      "id": "badge-scholar",
+      "description": "Badge for achieving a high score.",
+      "imageUrl": "https://picsum.photos/seed/scholar/200/200",
+      "imageHint": "ancient scroll"
+    },
+    {
+      "id": "badge-explorer",
+      "description": "Badge for exploring all subjects.",
+      "imageUrl": "https://picsum.photos/seed/explorer/200/200",
+      "imageHint": "old compass"
+    },
+    {
+      "id": "badge-master",
+      "description": "Badge for mastering a subject.",
+      "imageUrl": "https://picsum.photos/seed/master/200/200",
+      "imageHint": "intricate mandala"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for a user.",
+      "imageUrl": "https://picsum.photos/seed/avatar1/40/40",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "Avatar for a user.",
+      "imageUrl": "https://picsum.photos/seed/avatar2/40/40",
+      "imageHint": "student profile"
+    },
+    {
+      "id": "user-avatar-3",
+      "description": "Avatar for a user.",
+      "imageUrl": "https://picsum.photos/seed/avatar3/40/40",
+      "imageHint": "smiling student"
+    },
+    {
+      "id": "user-avatar-4",
+      "description": "Avatar for a user.",
+      "imageUrl": "https://picsum.photos/seed/avatar4/40/40",
+      "imageHint": "girl student"
+    },
+    {
+      "id": "user-avatar-5",
+      "description": "Avatar for a user.",
+      "imageUrl": "https://picsum.photos/seed/avatar5/40/40",
+      "imageHint": "boy student"
+    }
+  ]
+}

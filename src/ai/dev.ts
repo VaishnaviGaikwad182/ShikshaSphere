@@ -1,0 +1,5 @@
+import { config } from 'dotenv';
+config();
+
+import '@/ai/flows/adaptive-difficulty.ts';
+import '@/ai/flows/personalized-tutoring.ts';
